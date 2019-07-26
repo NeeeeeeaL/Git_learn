@@ -12,8 +12,6 @@ git config --global user.email "adam0618@outlook.com"
 
 ### 2. Git commands
 
-![](Git_command.png)
-
 创建本地仓库：` git init `
 
 将工作区文件添加到暂存区：` git add `
@@ -35,3 +33,6 @@ git config --global user.email "adam0618@outlook.com"
 查看提交历史：` git log `
 
 查看指定文件提交历史：` git log -p <file> `
+
+![](Git_command.png)
+    
