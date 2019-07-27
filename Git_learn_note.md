@@ -1,4 +1,4 @@
-## Git learnning note
+## Git learning note
 
 ### 1. Repositery configuration
 
